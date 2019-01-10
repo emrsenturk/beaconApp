@@ -1,5 +1,7 @@
 # beaconApp
 
+This is the final assignment for Mobility in Software System Course.
+
 The MOBApp Gaming company, that offers indoor GeoGames, engages you as student volunteers to
 program an app that finds out in which directions the indoor GeoGame players are moving within a
 building during their games and which places they visit. Collecting and using this information shall
